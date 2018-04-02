@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520296001 source:/home/andrewduong/Desktop/test/test1.cpp
+	<iostream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<string>
+	<cmath>
+	<iomanip>
+
